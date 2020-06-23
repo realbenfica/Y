@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{E3BDBEDB-CCA3-EAEF-FA1A-D1B177AD67C4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LocalizationManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Jen.cs" Line="77" Column="72" />
+      <File FileName="Assets/Plugins/Pixel Crushers/Common/Wrappers/UI/UIPanel.cs" />
+      <File FileName="Assets/Plugins/Pixel Crushers/Common/Scripts/UI/UIPanel.cs" />
+      <File FileName="Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/UI/Standard/Dialogue/StandardUIResponseButton.cs" />
+      <File FileName="Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/UI/Standard/Dialogue/StandardUIResponseButton.cs" />
+      <File FileName="Assets/Plugins/Pixel Crushers/Dialogue System/Scripts/UI/Standard/Dialogue/StandardUISubtitlePanel.cs" />
+      <File FileName="Assets/Scripts/ZoomInCamera.cs" Line="24" Column="40" />
+      <File FileName="Assets/Scripts/LocalizationManager.cs" Line="4" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Y" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="Pixel Crushers" expanded="True">
+                  <Node name="Common" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="UI" expanded="True" />
+                    </Node>
+                    <Node name="Wrappers" expanded="True">
+                      <Node name="UI" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Dialogue System" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="UI" expanded="True">
+                        <Node name="Standard" expanded="True">
+                          <Node name="Dialogue" expanded="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                    <Node name="Wrappers" expanded="True">
+                      <Node name="UI" expanded="True">
+                        <Node name="Standard" expanded="True">
+                          <Node name="Dialogue" expanded="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f34e1f6e-c253-439e-a7df-ff65f9e1a07f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
